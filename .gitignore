@@ -131,4 +131,5 @@ dmypy.json
 # Pasta das imagens
 /train
 /clusters
+**/cluster.png
 
